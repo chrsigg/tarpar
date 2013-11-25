@@ -1,7 +1,6 @@
-tarpar
+tarpar.py
 ======
 
-A barebones Python script for backing up the primary disk of a Mac
-using tar and par2, see my personal backup strategy [post]
+A barebones Python script which uses `tar` and `par2` for backing up the primary disk of a Mac. [This post]
 (http://sigg-iten.ch/learningbits/2013/11/22/my-strategy-for-personal-backups/)
-for more details.
+explains my strategy for personal backups.
